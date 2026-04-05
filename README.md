@@ -1,19 +1,12 @@
 <!-- Parte superior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=180&color=9D00FF&section=header&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&section=header&reversal=true"/>
 
----
 <div align="center">
   
-## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Larissa Albuquerque
+## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou a Beatriz Bucher Pessoa
  👩🏻‍💻 Sou uma desenvolvedora fullstack e apaixonada por tecnologia.<br>
  ⚡ Técnico em Desenvolvimento de Sistemasna - SENAI<br>
- 👩‍🎓 Graduanda em Inteligência Artificial - UNIMAR<br>
-</div>
-
-<div align="center">
-  <a href="https://github.com/BeatrizBucher">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larialbu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact"/>
+ 👩‍🎓 Graduanda em Bacharelado em Inteligência Artificial - UNIMAR<br>
 </div>
 
    <!-- Distintivos de Linguagens e Habilidades -->
@@ -43,11 +36,8 @@
   
 </div>
 
-
----
-
 <!-- Parte inferior da página -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&height=180&color=9D00FF&section=footer&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&section=footer&reversal=true"/>
 
 
 
